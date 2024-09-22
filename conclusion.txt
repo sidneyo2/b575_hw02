@@ -1,0 +1,2 @@
+The most challenging aspect for me was understanding how creating new things locally can be pushed back to the original copy, and how to navigate a pull request on git.
+The element I learned is that when working with repositories on git it can get very confusing fast when you have multiple branches and you are creating additional branches locally.
